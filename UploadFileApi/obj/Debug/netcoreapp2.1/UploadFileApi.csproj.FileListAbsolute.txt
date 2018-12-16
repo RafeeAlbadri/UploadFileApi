@@ -1,0 +1,14 @@
+C:\Users\rafee\source\repos\UploadFileApi\UploadFileApi\bin\Debug\netcoreapp2.1\UploadFileApi.deps.json
+C:\Users\rafee\source\repos\UploadFileApi\UploadFileApi\bin\Debug\netcoreapp2.1\UploadFileApi.runtimeconfig.json
+C:\Users\rafee\source\repos\UploadFileApi\UploadFileApi\bin\Debug\netcoreapp2.1\UploadFileApi.runtimeconfig.dev.json
+C:\Users\rafee\source\repos\UploadFileApi\UploadFileApi\bin\Debug\netcoreapp2.1\UploadFileApi.dll
+C:\Users\rafee\source\repos\UploadFileApi\UploadFileApi\bin\Debug\netcoreapp2.1\UploadFileApi.pdb
+C:\Users\rafee\source\repos\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.csprojAssemblyReference.cache
+C:\Users\rafee\source\repos\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.csproj.CoreCompileInputs.cache
+C:\Users\rafee\source\repos\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.RazorAssemblyInfo.cache
+C:\Users\rafee\source\repos\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.RazorAssemblyInfo.cs
+C:\Users\rafee\source\repos\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.AssemblyInfoInputs.cache
+C:\Users\rafee\source\repos\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.AssemblyInfo.cs
+C:\Users\rafee\source\repos\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.RazorTargetAssemblyInfo.cache
+C:\Users\rafee\source\repos\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.dll
+C:\Users\rafee\source\repos\UploadFileApi\UploadFileApi\obj\Debug\netcoreapp2.1\UploadFileApi.pdb
